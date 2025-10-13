@@ -1,7 +1,8 @@
 # Welcome to Your Project
 
-Your repository is empty. Push your code to main branch.
+Your repository is currently empty. Push your code to the main branch to deploy it live.
 
-Vercel site URL will be added soon.
+Access your Vercel site using the link below:
+https://els-professional-dhruvre-77.vercel.app
 
-Join our community!
+For more info, see Vercel dashboard: https://vercel.com/dashboard
