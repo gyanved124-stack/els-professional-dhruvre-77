@@ -1,0 +1,5 @@
+{
+    "name": "starterkit-1",
+    "type": "android",
+    "build_command": "gradlew assembleDebug"
+}
